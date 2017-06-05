@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/done_cancel_bar"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="#007FFF"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:gravity="left|center"
+            android:paddingLeft="20dp"
+            android:paddingRight="32dp"
+            android:scaleType="center"
+            android:src="@drawable/icon_close" />
+
+        <ImageView android:id="@+id/iv_crop" android:text="裁剪"
+             android:layout_toLeftOf="@+id/btn_done"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:layout_width="22dp"  android:src="@drawable/icon_crop"
+            android:layout_height="22dp" />
+
+        <ImageView
+            android:id="@+id/btn_done"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:gravity="left|center"
+            android:paddingLeft="20dp"
+            android:paddingRight="32dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_setting_summit" />
+
+    </RelativeLayout>
+
+    <com.soundcloud.android.crop.CropImageView
+        android:id="@+id/crop_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#111111"
+        android:layout_below="@+id/done_cancel_bar" />
+    <me.xiaopan.sketch.SketchImageView
+        android:id="@+id/original_image"
+        android:layout_below="@+id/done_cancel_bar"
+        android:scrollbars="vertical|horizontal" android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

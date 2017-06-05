@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\crop__ic_done.png",
+        "source": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\crop__ic_done.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\crop__divider.9.png",
+        "source": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\crop__divider.9.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\crop__ic_cancel.png",
+        "source": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\crop__ic_cancel.png"
+    }
+]

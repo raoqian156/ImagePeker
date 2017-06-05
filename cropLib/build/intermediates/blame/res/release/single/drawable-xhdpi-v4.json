@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__ic_done.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__ic_done.png"
+    },
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__ic_cancel.png",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__divider.9.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__divider.9.png"
+    },
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__divider.9.png",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__divider.9.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__ic_cancel.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__tile.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__tile.png"
+    },
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__ic_done.png",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__ic_done.png"
+    },
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\crop__tile.png",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\drawable-xhdpi\\crop__tile.png"
+    }
+]

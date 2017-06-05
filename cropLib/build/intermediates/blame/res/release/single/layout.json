@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\layout\\crop__layout_done_cancel.xml",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\layout\\crop__layout_done_cancel.xml",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\layout\\crop__activity_crop.xml",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\layout\\crop__activity_crop.xml",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\layout\\crop__activity_crop.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable\\crop__texture.xml",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable\\crop__selectable_background.xml",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable\\crop__selectable_background.xml",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "F:\\ImagePeker\\cropLib\\build\\intermediates\\res\\merged\\release\\drawable\\crop__texture.xml",
+        "source": "F:\\ImagePeker\\cropLib\\src\\main\\res\\drawable\\crop__texture.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__ic_done.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-hdpi\\crop__ic_done.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_crop.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-hdpi\\icon_crop.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__ic_cancel.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-hdpi\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_close.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-hdpi\\icon_close.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__divider.9.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-hdpi\\crop__divider.9.png"
+    },
+    {
+        "merged": "F:\\yikuaiwan\\cropLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_summit.png",
+        "source": "F:\\yikuaiwan\\cropLib\\src\\main\\res\\drawable-hdpi\\ic_setting_summit.png"
+    }
+]
